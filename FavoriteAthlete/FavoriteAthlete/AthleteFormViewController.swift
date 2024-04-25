@@ -2,7 +2,7 @@
 //  AthleteFormViewController.swift
 //  FavoriteAthlete
 //
-//  Created by Doan Le Thieu on 3/23/18.
+//  Created by Prince vasoya.
 //
 
 import UIKit
