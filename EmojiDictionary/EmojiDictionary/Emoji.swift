@@ -2,8 +2,7 @@
 //  Emoji.swift
 //  EmojiDictionary
 //
-//  Created by Doan Le Thieu on 3/24/18.
-//  Copyright © 2018 Doan Le Thieu. All rights reserved.
+//  Created by Prince Vasoya
 //
 
 
